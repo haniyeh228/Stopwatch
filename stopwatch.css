@@ -1,0 +1,29 @@
+#main {
+    height: 500px;
+    width: 800px;
+    background-color: orange;
+    border: 1px solid black;
+    text-align: center;
+    color: white;
+    margin: 50px auto;
+}
+
+#tens,
+#seconds {
+    font-size: 2em;
+}
+
+button {
+
+    border: 1px solid #fff;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 1.2em;
+    padding: 18px 10px;
+    width: 180px;
+    margin: 10px;
+    outline: none;
+
+
+
+}
